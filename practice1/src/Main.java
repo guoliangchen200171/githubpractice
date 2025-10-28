@@ -5,5 +5,6 @@ public class Main {
         System.out.println("hello");
         System.out.println("1112312312");
         System.out.println("good year");
+        System.out.println("bridgestone");
     }
 }
