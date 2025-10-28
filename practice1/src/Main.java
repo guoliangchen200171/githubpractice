@@ -6,6 +6,6 @@ public class Main {
         System.out.println("1112312312");
         System.out.println("good year");
         System.out.println("bridgestone");
-        System.out.println("21321213123123");
+        System.out.println("2322222222222");
     }
 }
